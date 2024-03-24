@@ -1,0 +1,9 @@
+# config.yaml
+
+DBUsername: "postgres"
+DBPassword: "bhagwan1510"
+DBHost: "localhost"
+DBPort: "5432"
+DBName: "your_db_name"
+AlpacaAPIKey: "CKOOX33O7HNT6PRMWZ9B"
+AlpacaSecretKey: " 8cNLUoWFk5MjbBq2dggJBa576hYrDMawAivzo4EE"
